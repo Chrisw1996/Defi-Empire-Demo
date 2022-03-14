@@ -1,5 +1,5 @@
 //=============================================================================
-// rmmz_windows.js v1.4.3
+// rmmz_windows.js v1.2.1
 //=============================================================================
 
 //-----------------------------------------------------------------------------
@@ -74,7 +74,7 @@ Window_Base.prototype.updatePadding = function() {
 };
 
 Window_Base.prototype.updateBackOpacity = function() {
-    this.backOpacity = $gameSystem.windowOpacity();
+    this.backOpacity = 192;
 };
 
 Window_Base.prototype.fittingHeight = function(numLines) {

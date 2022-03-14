@@ -1,4 +1,22 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889}
+{"id":1,"expanded":false,"name":"PLayer Home","order":5,"parentId":3,"scrollX":583.8,"scrollY":418.79999999999995},
+{"id":2,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":1592.1818181818182,"scrollY":471.2727272727273},
+{"id":3,"expanded":true,"name":"Starting town","order":2,"parentId":2,"scrollX":486.5,"scrollY":603},
+{"id":4,"expanded":false,"name":"Inn","order":3,"parentId":3,"scrollX":486.5,"scrollY":357},
+{"id":5,"expanded":false,"name":"Equiptment Vendor","order":4,"parentId":3,"scrollX":583.8,"scrollY":428.4},
+{"id":6,"expanded":true,"name":"Mining City","order":6,"parentId":2,"scrollX":616.5,"scrollY":890},
+{"id":7,"expanded":false,"name":"Mine","order":7,"parentId":6,"scrollX":1032.5,"scrollY":1297},
+{"id":8,"expanded":false,"name":"Ruins","order":12,"parentId":2,"scrollX":486.5,"scrollY":419},
+{"id":9,"expanded":false,"name":"Abandoned Town","order":13,"parentId":2,"scrollX":816.5,"scrollY":1184},
+{"id":10,"expanded":true,"name":"Tower","order":10,"parentId":2,"scrollX":607.5,"scrollY":1117},
+{"id":11,"expanded":false,"name":"Normal Town","order":14,"parentId":2,"scrollX":808.5,"scrollY":424},
+{"id":12,"expanded":false,"name":"Tower 1F","order":11,"parentId":10,"scrollX":1768.5,"scrollY":466},
+{"id":13,"expanded":false,"name":"Slum","order":15,"parentId":2,"scrollX":653.5,"scrollY":829},
+{"id":14,"expanded":false,"name":"Bar","order":8,"parentId":6,"scrollX":486.5,"scrollY":411},
+{"id":15,"expanded":false,"name":"Inn 1F","order":9,"parentId":6,"scrollX":521.5,"scrollY":580},
+{"id":16,"expanded":false,"name":"Volcano","order":16,"parentId":2,"scrollX":1054.5,"scrollY":2019},
+null,
+{"id":18,"expanded":false,"name":"Forest Town","order":17,"parentId":2,"scrollX":1046.5,"scrollY":1565},
+{"id":19,"expanded":false,"name":"Nomad Camp","order":18,"parentId":2,"scrollX":530.7272727272727,"scrollY":533.4545454545455}
 ]
